@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao meu perfil, sou estudante de Análise e Desenvolvimento de Sistemas pela faculdade Estacio, front-end HTML/CSS/ aluno do DevQuest 🧙 
+## Bem-vindo(a) ao meu perfil, sou estudante de Análise e Desenvolvimento de Sistemas pela faculdade Estacio, front-end HTML/CSS/JAVASCRIPT aluno do DevQuest 🧙 
 <div>
   <a href="https://github.com/MDaniloFv">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MDaniloFv&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
